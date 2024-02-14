@@ -25,23 +25,26 @@ GITHUB:
 VSCODE:
 - download VS code from https://code.visualstudio.com
 - open the app and click on either open which will allow you to open any repository or files that are saved in your device or click on new file to open new file
-- 
+- you can install extensions to help you work better. To install extensions, you should click on the tetris box type of icon on the left side of the screen, it will open up a little tab where you can search for extensions that you could install. I reccommend Wakatime, it sends you weekly report of the time you spent on VS CODE. Some things in report are time, projects, languages, etc. 
+- to use the terminal within the app, in the menu click on terminal and then click on new which will open up a new terminal for you. 
+- to run the code, go to the menu and click on Run. 
 
 Part 2. Definition
 Branch - a moveable pointer to one of the 
-Clone
-Commit
-Fetch
+Clone - is used to make a copy of an existing repository at a new location
+Commit - capture the state of the file at that point in time
+Fetch - downloads commits or files from a remote repository to a local repository
 GIT - a program/protocol that we use to track file changes
 Github - hosts a remote repository
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+Merge - combine multiple commits into one branch
+Merge Conflict - happens when git can not automatically resolve difference between two commits
+Push - uploads local repository content to remote repository
+Pull - gets and downloads content from remote repository and syncs the local repository with remote repository
+Remote - common repository that is used to store data which can act as a backup in case something goes wrong with the files in local repository
+Repository - a place where you can store you files and folders. 
 
 
 Resources :
 www.github.com
 past lectures of IT114
+google for defintions
