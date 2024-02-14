@@ -30,18 +30,18 @@ VSCODE:
 - to run the code, go to the menu and click on Run. 
 
 Part 2. Definition
-Branch - a moveable pointer to one of the 
-Clone - is used to make a copy of an existing repository at a new location
-Commit - capture the state of the file at that point in time
-Fetch - downloads commits or files from a remote repository to a local repository
-GIT - a program/protocol that we use to track file changes
-Github - hosts a remote repository
-Merge - combine multiple commits into one branch
-Merge Conflict - happens when git can not automatically resolve difference between two commits
-Push - uploads local repository content to remote repository
-Pull - gets and downloads content from remote repository and syncs the local repository with remote repository
-Remote - common repository that is used to store data which can act as a backup in case something goes wrong with the files in local repository
-Repository - a place where you can store you files and folders. 
+- Branch - a moveable pointer to one of the 
+- Clone - is used to make a copy of an existing repository at a new location
+- Commit - capture the state of the file at that point in time
+- Fetch - downloads commits or files from a remote repository to a local repository
+- GIT - a program/protocol that we use to track file changes
+- Github - hosts a remote repository
+- Merge - combine multiple commits into one branch
+- Merge Conflict - happens when git can not automatically resolve difference between two commits
+- Push - uploads local repository content to remote repository
+- Pull - gets and downloads content from remote repository and syncs the local repository with remote repository
+- Remote - common repository that is used to store data which can act as a backup in case something goes wrong with the files in local repository
+- Repository - a place where you can store you files and folders. 
 
 
 Resources :
